@@ -194,6 +194,7 @@ namespace Linq_Methods
         private void btnGroupBy_Click(object sender, EventArgs e)
         {
             //GroupBy() => Takes a flat sequence of elements and then organizes the elements into groups (i.e. IGrouping<TKey, TSource>) based on a given key.
+            //Join() => The Join operator joins two sequences (collections) based on a key and returns a resulted sequence.
             //How many products do each category has?
             dataGridView1.DataSource = db.Categories
                  .Join(db.Products, c => c.CategoryID, p => p.CategoryID, (c, p) => new { c, p })
