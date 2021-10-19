@@ -7,9 +7,16 @@
 
 ### 1. Entity Framework
 
-### Microsoft Entity Framework is an ORM (Object-relational mapping).
+#### Microsoft Entity Framework is an ORM (Object-relational mapping).
 
-### Being an ORM,  Entity Framework is a data access framework provided by Microsoft that helps to establish a relation between objects and data structure in the application. It is built over traditional ADO.NET and acts as a wrapper over ADO.NET and is an enhancement over ADO.NET that provides the data access in a more automated way, thereby, reducing a developer’s effort to struggle with connections, data readers, or datasets. It is an abstraction over all those and is more powerful with the offerings it makes. A developer can have more control over what data he needs, in which form and how much. A developer having no database development background can leverage Entity framework along with LINQ capabilities to write an optimized query to perform DB operations. The SQL or DB query execution would be handled by Entity Framework in the background and it will take care of all the transactions and concurrency issues that may occur.
+#### Being an ORM,  Entity Framework is a data access framework provided by Microsoft that helps to establish a relation between objects and data structure in the application. It is built over traditional ADO.NET and acts as a wrapper over ADO.NET and is an enhancement over ADO.NET that provides the data access in a more automated way, thereby, reducing a developer’s effort to struggle with connections, data readers, or datasets. It is an abstraction over all those and is more powerful with the offerings it makes. A developer can have more control over what data he needs, in which form and how much. A developer having no database development background can leverage Entity framework along with LINQ capabilities to write an optimized query to perform DB operations. The SQL or DB query execution would be handled by Entity Framework in the background and it will take care of all the transactions and concurrency issues that may occur.
+
+### Entity Framework Approaches
+
+*Model First,
+*Database First, and
+*Code First
+
 
 
 
