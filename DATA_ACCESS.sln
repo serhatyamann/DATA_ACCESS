@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Methods", "Linq_Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSql_Examples", "LinqToSql_Examples\LinqToSql_Examples.csproj", "{6F2CB048-B5BC-45D4-B518-7D34791CA526}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper_CRUD_NW", "Dapper_CRUD_NW\Dapper_CRUD_NW.csproj", "{1A74E4B8-D3D3-480C-AEC0-5C9ED1E2B714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F2CB048-B5BC-45D4-B518-7D34791CA526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F2CB048-B5BC-45D4-B518-7D34791CA526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F2CB048-B5BC-45D4-B518-7D34791CA526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A74E4B8-D3D3-480C-AEC0-5C9ED1E2B714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A74E4B8-D3D3-480C-AEC0-5C9ED1E2B714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A74E4B8-D3D3-480C-AEC0-5C9ED1E2B714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A74E4B8-D3D3-480C-AEC0-5C9ED1E2B714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
