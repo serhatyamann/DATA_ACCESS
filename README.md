@@ -13,9 +13,9 @@
 
 ### Entity Framework Approaches
 
-*Model First,
-*Database First, and
-*Code First
+* Model First
+* Database First
+* Code First
 
 
 
