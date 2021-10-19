@@ -205,10 +205,5 @@ namespace Linq_Methods
                      TotalNumberofProducts = x.Sum(q => q.p.UnitsInStock)
                  }).ToList();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
