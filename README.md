@@ -19,15 +19,15 @@
 * Database First
 * Code First
 
-#### Model First
+#### [Model First](#)
 
 ##### Using a Model-First approach, a developer may not need to write any code for generating a database. Entity Framework provides the designer tools that could help you make a model and then generate a database out of it. 
 
-#### Database First
+#### [Database First](#)
 
 ##### We use the Database-First approach when we already have an existing database and need to access that in our application. Establishing the data access methodology for existing database with Entity Framework will help us to generate the context and classes in our solution through which we can access the database.
 
-#### Code First
+#### [Code First](#)
 
 ##### Using the Code-First approach, a developer’s focus is only on the code and not on the database or data model. The developer can define classes and their mapping in the code itself and since now Entity Framework supports inheritance, it is easier to define relationships. EF takes care of creating or re-creating the database for you.
 
