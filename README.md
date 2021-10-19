@@ -3,7 +3,7 @@
 
 ##### In this repo you will see that I used 2 ORM Tools:
 
-https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/crud-operation-using-dapper-in-c-sharp/Images/CRUD%20Operation%20Using%20Dapper2.png
+![alt text](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/crud-operation-using-dapper-in-c-sharp/Images/CRUD%20Operation%20Using%20Dapper2.png)
 
 ### 1. Entity Framework
 
