@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper_CRUD_NW", "Dapper_CR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper_READs_Northwind", "Dapper_READs_Northwind\Dapper_READs_Northwind.csproj", "{3D33917D-4B0F-459D-8A19-B3DCDFB186F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Code_First", "EF_Code_First\EF_Code_First.csproj", "{65A079C2-6FB8-415E-A2C4-5D9A584C6405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3D33917D-4B0F-459D-8A19-B3DCDFB186F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D33917D-4B0F-459D-8A19-B3DCDFB186F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D33917D-4B0F-459D-8A19-B3DCDFB186F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A079C2-6FB8-415E-A2C4-5D9A584C6405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A079C2-6FB8-415E-A2C4-5D9A584C6405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A079C2-6FB8-415E-A2C4-5D9A584C6405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A079C2-6FB8-415E-A2C4-5D9A584C6405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
