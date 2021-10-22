@@ -12,7 +12,7 @@ namespace EF_Code_First.Infrastructure.Context
     {
         public AppDbContext()
         {
-            Database.Connection.ConnectionString = @"Server=.;Database=CodeFirstExample;Integrated Security=True";
+            Database.Connection.ConnectionString = @"Server=.;Database=CodeFirstExample;Integrated Security=True"; //If there is not a database named "CodeFirstExample", it will be created.
         }
 
         public DbSet<Author> Authors { get; set; }

@@ -11,12 +11,12 @@ namespace EF_Code_First.Model.Concrete
 {
     public class Book : Base
     {
-        [Required]
+        [Required] //String type fields might take a null value on SQL side. So we specified our string fields as "Required".
         public string BookName { get; set; }
         [Required]
         public string Description { get; set; }
-        public int AuthorID { get; set; }
+        public int AuthorID { get; set; } //Foreign Key
         [ForeignKey("AuthorID")]
-        public virtual Author Author { get; set; }
+        public virtual Author Author { get; set; } //References
     }
 }
